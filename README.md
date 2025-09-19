@@ -13,11 +13,3 @@ Github下载链接: [下载地址一](https://Sjj1024.github.io/FileHub/root/Fil
 ##### Linux安装包  
 Github下载链接: [下载地址一](https://wwlu.lanzouq.com/iMGYD13n0o7ehttps://Sjj1024.github.io/FileHub/root/Filehub包/file-hub_0.0.1_amd64.deb)  
 蓝奏云下载链接：[下载地址二](https://wwlu.lanzouq.com/iMGYD13n0o7e)
-
-
-## 软件功能介绍
-### 基本功能特性
-跨平台支持：windows + mac + linux都支持，多主题：暗黑主题和亮白主题，多语言切换：中英互换。   
-上传文件，在线预览图片，播放视频，音乐，分享资源等等，修改Token，修改密码，修改用户名，修改图片链接CDN，加快访问速度。     
-
-这个项目已经很久不更新了，现在只是我的音频床...
